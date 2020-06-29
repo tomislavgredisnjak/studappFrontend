@@ -1,0 +1,63 @@
+{
+    "language": {
+        "croatian": "Croat",
+        "english": "Engleză",
+        "romanian": "Română"
+    },
+    "navbar": {
+        "username": "Nume de utilizator",
+        "role": "Rolul",
+        "login": "Cerere",
+        "logout": "Verifică"
+    },
+    "login": {
+        "title": "Cerere",
+        "username": "Nume de utilizator",
+        "usernamePlaceholder": "Introduceți un nume de utilizator",
+        "password": "Parola",
+        "passwordPlaceholder": "Introduceți parola",
+        "loginButton": "Cerere",
+        "loginError": "Autentificare esuata! Verificați datele și încercați din nou."
+    },
+    "main": {
+        "studentsLink": "Studenți"
+    },
+    "404": {
+        "pageNotFoundMessage": "Pagina solicitată nu a fost găsită",
+        "returnToHomepage": "Reveniți la pagina principală"
+    },
+    "403": {
+        "pageNotForbiddenMessage": "Nu aveți dreptul de a accesa pagina solicitată!",
+        "returnToHomepage": "Reveniți la pagina principală"
+    },
+    "students": {
+        "title": "Lista studenților",
+        "create": "Adăugați un nou student",
+        "firstName": "Nume",
+        "lastName": "Nume de familie",
+        "details": "Detalii",
+        "edit": "Editați",
+        "delete": "Ștergere",
+        "createTitle": "Adăugarea unui nou student",
+        "editTitle": "Editarea datelor studenților",
+        "form": {
+            "firstName": "Nume",
+            "firstNamePlaceholder": "Introduceți un nume",
+            "lastName": "Nume de familie",
+            "lastNamePlaceholder": "Introduceți numele de familie",
+            "jmbagPlaceholder": "Introduceți JMBAG",
+            "jmbagError": "JMBAG trebuie să conțină 10 caractere.",
+            "ects": "Număr de credite ECTS",
+            "ectsPlaceholder": "Introduceți ECTS",
+            "cancel": "Renunta",
+            "save": "Salvați"
+        },
+        "detailsForm": {
+            "studentDetails": "Detalii despre student",
+            "tuitionPaymentMessage": "Studentul trebuie să plătească taxa de școlarizare.",
+            "courses": "Cursuri la care studentul este înscris",
+            "notAttendingAnyCourse": "Studentul nu s-a înscris la niciun curs.",
+            "back": "Înapoi la revizuirea studentului"
+        }
+    }
+}

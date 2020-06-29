@@ -1,0 +1,63 @@
+{
+    "language": {
+        "croatian": "Croatian",
+        "english": "English",
+        "romanian": "Romanian"
+    },
+    "navbar": {
+        "username": "Username",
+        "role": "Role",
+        "login": "Login",
+        "logout": "Logout"
+    },
+    "login": {
+        "title": "Login",
+        "username": "Username",
+        "password": "Password",
+        "usernamePlaceholder": "Enter username",
+        "passwordPlaceholder": "Enter password",
+        "loginButton": "Login",
+        "loginError": "Login failed! Check your credentials and try again."
+    },
+    "main": {
+        "studentsLink": "Students"
+    },
+    "404": {
+        "pageNotFoundMessage": "The requested page was not found",
+        "returnToHomepage": "Return to home page"
+    },
+    "403": {
+        "pageNotForbiddenMessage": "You don't have rights to access the requested page!",
+        "returnToHomepage": "Return to home page"
+    },
+    "students": {
+        "title": "List of students",
+        "create": "Add a new student",
+        "firstName": "First name",
+        "lastName": "Last name",
+        "details": "Details",
+        "edit": "Edit",
+        "delete": "Delete",
+        "createTitle": "Add a new student",
+        "editTitle": "Edit student details",
+        "form": {
+            "firstName": "First name",
+            "firstNamePlaceholder": "Enter first name",
+            "lastName": "Last name",
+            "lastNamePlaceholder": "Enter last name",
+            "jmbagPlaceholder": "Enter JMBAG",
+            "jmbagError": "JMBAG must contain of 10 characters.",
+            "ects": "Number of ECTS points",
+            "ectsPlaceholder": "Enter ECTS",
+            "cancel": "Cancel",
+            "save": "Save"
+        },
+        "detailsForm": {
+            "studentDetails": "Student details",
+            "tuitionPaymentMessage": "Student must pay tuition.",
+            "courses": "Courses which student attends",
+            "notAttendingAnyCourse": "Student doesn't attend any course.",
+            "back": "Back to student details"
+        }
+    }
+}
